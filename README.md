@@ -10,8 +10,7 @@ In this project, I've used AWS SageMaker to build an image classification model 
 - **Step 2:** Model Training and Deployment
 - **Step 3:** Lambdas and Step Function Workflow
 - **Step 4:** Testing and Evaluation
-- **Step 5:** Optional Challenge
-- **Step 6:** Cleanup Cloud Resources
+- **Step 5:** Cleanup Cloud Resources
 
 ## Building a State Machine via AWS Step Functions
 * Step Function Graph (that met the inference threshold)
