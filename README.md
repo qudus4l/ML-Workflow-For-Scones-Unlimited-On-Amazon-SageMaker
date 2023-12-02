@@ -1,7 +1,5 @@
 # Building a Machine Learning Workflow for Scones Unlimited with Amazon SageMaker
 
-*This project is the final ssessment in Udacity's AWS Machine Learning Engineer Nanodegree Program.*
-
 ## Project Overview
 
 In this project, I've used AWS SageMaker to build an image classification model that can distinguish bicycles from motorcycles. I've also deployed the model using AWS Lambda functions to create supporting services and AWS Step Functions to compose the model and services into an event-driven application.
